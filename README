@@ -1,0 +1,1 @@
+Build with Bazel in-tree with AOSP/CLO. DTBs aren't fixed, just don't use the overlays generated. Build only modules and kernel.
