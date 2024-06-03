@@ -329,7 +329,7 @@ def define_pineapple():
             mod_list = _pineapple_in_tree_modules
 
         mod_list += _pineapple_common_oem_modules
-        mod_list += _tiro_in_tree_modules
+        mod_list += _cerro_in_tree_modules
 
         mod_list += _zlog_in_tree_modules
 
